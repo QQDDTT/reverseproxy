@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Spring Boot Reverse Proxy Index</title>
+	<style type="text/css">
+		.header{
+			position:absolute;
+			top:0;
+			left:0;
+			width:99.5%;
+			height:5%;
+		}
+		.header a{
+			position:absolute;
+			left:0;
+			width:300px;
+		}
+		.header input{
+			position:absolute;
+			left:300px;
+			width:800px;
+		}
+		.header button{
+			position:absolute;
+			left:1100px;
+			width:100px;
+		}
+		.iframe{
+			position:absolute;
+			top:5%;
+			left:0;
+			height:94%;
+			width:99.5%;
+		}
+	</style>
+</head>
+<body>
+<header id="header" class="header">
+    <a href="/" class="">
+        <strong>Nick Reverse Proxy Demo</strong>
+    </a>
+    <input id="input_tag" type="text" value="www.google.com"/>
+    <button onclick="goto()">GO</button>
+</header>
+<iframe id="iframe" name="iframe" class="iframe"></iframe>
+
+<script type="text/javascript">
+	iframe.addEventListener('DOMContentLoaded', (event) => {
+    	let element = document.querySelector('iframe');
+    	if (element) {
+        	element.classList.add('iframe');
+    	}
+	});
+	function goto(){
+		window.open("/nickproxy/" + document.getElementById("input_tag").value,"iframe","");
+	}
+	</script>
+
+</body>
+</html>

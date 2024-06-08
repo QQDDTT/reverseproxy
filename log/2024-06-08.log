@@ -1,0 +1,1135 @@
+2024-06-08 00:54:55.645 [main] [INFO ] [o.s.t.context.support.AnnotationConfigContextLoaderUtils]: Could not detect default configuration classes for test class [com.nick.reverseproxy.ReverseproxyApplicationTests]: ReverseproxyApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-06-08 00:54:55.878 [main] [INFO ] [o.s.boot.test.context.SpringBootTestContextBootstrapper]: Found @SpringBootConfiguration com.nick.reverseproxy.ReverseproxyApplication for test class com.nick.reverseproxy.ReverseproxyApplicationTests
+2024-06-08 00:54:56.143 [main] [INFO ] [o.s.boot.devtools.restart.RestartApplicationListener]: Restart disabled due to context in which it is running
+2024-06-08 00:54:56.510 [main] [INFO ] [com.nick.reverseproxy.ReverseproxyApplicationTests]: Starting ReverseproxyApplicationTests using Java 17.0.4.1 with PID 10268 (started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 00:54:56.513 [main] [INFO ] [com.nick.reverseproxy.ReverseproxyApplicationTests]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 00:54:58.460 [main] [INFO ] [com.nick.reverseproxy.ReverseproxyApplicationTests]: Started ReverseproxyApplicationTests in 2.34 seconds (process running for 5.05)
+2024-06-08 01:00:36.091 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 01:00:36.096 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 01:00:36.190 [restartedMain] [INFO ] [o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-08 01:00:36.190 [restartedMain] [INFO ] [o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-08 01:00:37.462 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 01:00:37.473 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:00:37.475 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 01:00:37.476 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 01:00:38.219 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 01:00:38.250 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:00:38.292 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 01:00:38.308 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 2.697 seconds (process running for 7.68)
+2024-06-08 01:01:47.073 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 01:01:47.079 [Thread-5] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:01:47.172 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 01:01:47.173 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 01:01:47.432 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 01:01:47.433 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:01:47.433 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 01:01:47.434 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 01:01:47.522 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 01:01:47.532 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:01:47.537 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 01:01:47.541 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.41 seconds (process running for 76.913)
+2024-06-08 01:01:47.543 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 01:02:31.803 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 01:02:31.808 [Thread-7] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:02:31.900 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 01:02:31.902 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 01:02:32.144 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 01:02:32.145 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:02:32.146 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 01:02:32.147 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 01:02:32.231 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 01:02:32.237 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:02:32.241 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 01:02:32.244 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.387 seconds (process running for 121.615)
+2024-06-08 01:02:32.246 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 01:05:41.024 [http-nio-8080-exec-9] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [GET]www.google.com
+2024-06-08 01:05:41.412 [http-nio-8080-exec-9] [ERROR] [o.s.b.a.w.r.error.AbstractErrorWebExceptionHandler]: [51d37847]  500 Server Error for HTTP GET "/nickproxy/www.google.com"
+org.springframework.web.client.UnknownContentTypeException: Could not extract response: no suitable HttpMessageConverter found for response type [class java.lang.Object] and content type [text/html;charset=ISO-8859-1]
+	at org.springframework.web.client.HttpMessageConverterExtractor.extractData(HttpMessageConverterExtractor.java:125)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	*__checkpoint ? HTTP GET "/nickproxy/www.google.com" [ExceptionHandlingWebHandler]
+Original Stack Trace:
+		at org.springframework.web.client.HttpMessageConverterExtractor.extractData(HttpMessageConverterExtractor.java:125)
+		at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:892)
+		at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:790)
+		at org.springframework.web.client.RestTemplate.getForObject(RestTemplate.java:404)
+		at com.nick.reverseproxy.controller.ProxyController.proxy(ProxyController.java:22)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.springframework.web.reactive.result.method.InvocableHandlerMethod.lambda$invoke$0(InvocableHandlerMethod.java:198)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onNext(MonoFlatMap.java:132)
+		at reactor.core.publisher.MonoZip$ZipCoordinator.signal(MonoZip.java:297)
+		at reactor.core.publisher.MonoZip$ZipInner.onNext(MonoZip.java:478)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onNext(MonoPeekTerminal.java:180)
+		at reactor.core.publisher.FluxDefaultIfEmpty$DefaultIfEmptySubscriber.onNext(FluxDefaultIfEmpty.java:122)
+		at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onNext(FluxSwitchIfEmpty.java:74)
+		at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2571)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.set(Operators.java:2367)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onSubscribe(Operators.java:2241)
+		at reactor.core.publisher.FluxFlatMap.trySubscribeScalarMap(FluxFlatMap.java:193)
+		at reactor.core.publisher.MonoFlatMap.subscribeOrReturn(MonoFlatMap.java:53)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:63)
+		at reactor.core.publisher.MonoZip$ZipCoordinator.request(MonoZip.java:220)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.request(MonoFlatMap.java:194)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.onSubscribe(MonoIgnoreThen.java:135)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onSubscribe(MonoFlatMap.java:117)
+		at reactor.core.publisher.MonoZip.subscribe(MonoZip.java:129)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:76)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:53)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.subscribeNext(MonoIgnoreThen.java:241)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.onComplete(MonoIgnoreThen.java:204)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onComplete(MonoFlatMap.java:189)
+		at reactor.core.publisher.Operators.complete(Operators.java:137)
+		at reactor.core.publisher.MonoZip.subscribe(MonoZip.java:121)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4568)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.subscribeNext(MonoIgnoreThen.java:265)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:51)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:76)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onNext(MonoFlatMap.java:165)
+		at reactor.core.publisher.FluxOnErrorResume$ResumeSubscriber.onNext(FluxOnErrorResume.java:79)
+		at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onNext(FluxSwitchIfEmpty.java:74)
+		at reactor.core.publisher.MonoNext$NextSubscriber.onNext(MonoNext.java:82)
+		at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.innerNext(FluxConcatMapNoPrefetch.java:259)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapInner.onNext(FluxConcatMap.java:865)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:129)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onNext(MonoPeekTerminal.java:180)
+		at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2571)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.request(MonoPeekTerminal.java:139)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.request(FluxMapFuseable.java:171)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.request(Operators.java:2331)
+		at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.request(FluxConcatMapNoPrefetch.java:339)
+		at reactor.core.publisher.MonoNext$NextSubscriber.request(MonoNext.java:108)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.set(Operators.java:2367)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onSubscribe(Operators.java:2241)
+		at reactor.core.publisher.MonoNext$NextSubscriber.onSubscribe(MonoNext.java:70)
+		at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.onSubscribe(FluxConcatMapNoPrefetch.java:164)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:201)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:83)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:76)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:53)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4568)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.subscribeNext(MonoIgnoreThen.java:265)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:51)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4568)
+		at org.springframework.http.server.reactive.ServletHttpHandlerAdapter.service(ServletHttpHandlerAdapter.java:199)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:833)
+2024-06-08 01:07:47.700 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 01:07:47.706 [Thread-11] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:07:47.829 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 01:07:47.830 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 01:07:48.053 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 01:07:48.054 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:07:48.054 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 01:07:48.055 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 01:07:48.134 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 01:07:48.141 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:07:48.144 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 01:07:48.148 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.389 seconds (process running for 437.52)
+2024-06-08 01:07:48.150 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 01:08:06.782 [http-nio-8080-exec-3] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [GET PROXY]www.google.com
+2024-06-08 01:08:07.035 [http-nio-8080-exec-3] [ERROR] [o.s.b.a.w.r.error.AbstractErrorWebExceptionHandler]: [3ceec627]  500 Server Error for HTTP GET "/nickproxy/www.google.com"
+org.springframework.web.client.UnknownContentTypeException: Could not extract response: no suitable HttpMessageConverter found for response type [class java.lang.Object] and content type [text/html;charset=ISO-8859-1]
+	at org.springframework.web.client.HttpMessageConverterExtractor.extractData(HttpMessageConverterExtractor.java:125)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	*__checkpoint ? HTTP GET "/nickproxy/www.google.com" [ExceptionHandlingWebHandler]
+Original Stack Trace:
+		at org.springframework.web.client.HttpMessageConverterExtractor.extractData(HttpMessageConverterExtractor.java:125)
+		at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:892)
+		at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:790)
+		at org.springframework.web.client.RestTemplate.getForObject(RestTemplate.java:404)
+		at com.nick.reverseproxy.controller.ProxyController.proxy(ProxyController.java:22)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.springframework.web.reactive.result.method.InvocableHandlerMethod.lambda$invoke$0(InvocableHandlerMethod.java:198)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onNext(MonoFlatMap.java:132)
+		at reactor.core.publisher.MonoZip$ZipCoordinator.signal(MonoZip.java:297)
+		at reactor.core.publisher.MonoZip$ZipInner.onNext(MonoZip.java:478)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onNext(MonoPeekTerminal.java:180)
+		at reactor.core.publisher.FluxDefaultIfEmpty$DefaultIfEmptySubscriber.onNext(FluxDefaultIfEmpty.java:122)
+		at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onNext(FluxSwitchIfEmpty.java:74)
+		at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2571)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.set(Operators.java:2367)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onSubscribe(Operators.java:2241)
+		at reactor.core.publisher.FluxFlatMap.trySubscribeScalarMap(FluxFlatMap.java:193)
+		at reactor.core.publisher.MonoFlatMap.subscribeOrReturn(MonoFlatMap.java:53)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:63)
+		at reactor.core.publisher.MonoZip$ZipCoordinator.request(MonoZip.java:220)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.request(MonoFlatMap.java:194)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.onSubscribe(MonoIgnoreThen.java:135)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onSubscribe(MonoFlatMap.java:117)
+		at reactor.core.publisher.MonoZip.subscribe(MonoZip.java:129)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:76)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:53)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.subscribeNext(MonoIgnoreThen.java:241)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.onComplete(MonoIgnoreThen.java:204)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onComplete(MonoFlatMap.java:189)
+		at reactor.core.publisher.Operators.complete(Operators.java:137)
+		at reactor.core.publisher.MonoZip.subscribe(MonoZip.java:121)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4568)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.subscribeNext(MonoIgnoreThen.java:265)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:51)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:76)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onNext(MonoFlatMap.java:165)
+		at reactor.core.publisher.FluxOnErrorResume$ResumeSubscriber.onNext(FluxOnErrorResume.java:79)
+		at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onNext(FluxSwitchIfEmpty.java:74)
+		at reactor.core.publisher.MonoNext$NextSubscriber.onNext(MonoNext.java:82)
+		at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.innerNext(FluxConcatMapNoPrefetch.java:259)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapInner.onNext(FluxConcatMap.java:865)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:129)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onNext(MonoPeekTerminal.java:180)
+		at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2571)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.request(MonoPeekTerminal.java:139)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.request(FluxMapFuseable.java:171)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.request(Operators.java:2331)
+		at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.request(FluxConcatMapNoPrefetch.java:339)
+		at reactor.core.publisher.MonoNext$NextSubscriber.request(MonoNext.java:108)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.set(Operators.java:2367)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onSubscribe(Operators.java:2241)
+		at reactor.core.publisher.MonoNext$NextSubscriber.onSubscribe(MonoNext.java:70)
+		at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.onSubscribe(FluxConcatMapNoPrefetch.java:164)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:201)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:83)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:76)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:53)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4568)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.subscribeNext(MonoIgnoreThen.java:265)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:51)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4568)
+		at org.springframework.http.server.reactive.ServletHttpHandlerAdapter.service(ServletHttpHandlerAdapter.java:199)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:833)
+2024-06-08 01:28:31.412 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 01:28:31.416 [Thread-15] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:28:31.535 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 01:28:31.539 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 01:28:31.740 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 01:28:31.741 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:28:31.742 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 01:28:31.742 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 01:28:31.810 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 01:28:31.815 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:28:31.819 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 01:28:31.821 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.348 seconds (process running for 1681.194)
+2024-06-08 01:28:31.823 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 01:29:21.169 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 01:29:21.171 [Thread-19] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:29:21.272 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 01:29:21.274 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 01:29:21.476 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 01:29:21.477 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:29:21.478 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 01:29:21.478 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 01:29:21.570 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 01:29:21.578 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:29:21.581 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 01:29:21.584 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.357 seconds (process running for 1730.956)
+2024-06-08 01:29:21.586 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 01:30:01.748 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 01:30:01.751 [Thread-23] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:30:01.877 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 01:30:01.878 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 01:30:02.055 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 01:30:02.056 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:30:02.056 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 01:30:02.057 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 01:30:02.109 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 01:30:02.115 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:30:02.119 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 01:30:02.122 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.285 seconds (process running for 1771.494)
+2024-06-08 01:30:02.123 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 01:30:16.845 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 01:30:16.848 [Thread-27] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:30:16.939 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 01:30:16.940 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 01:30:17.155 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 01:30:17.156 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:30:17.157 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 01:30:17.158 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 01:30:17.226 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 01:30:17.232 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:30:17.235 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 01:30:17.238 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.335 seconds (process running for 1786.611)
+2024-06-08 01:30:17.241 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 01:30:25.714 [http-nio-8080-exec-5] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [GET PROXY]www.google.com
+2024-06-08 01:30:25.957 [http-nio-8080-exec-5] [ERROR] [com.nick.reverseproxy.controller.ProxyController]: Could not extract response: no suitable HttpMessageConverter found for response type [class java.lang.Object] and content type [text/html;charset=ISO-8859-1]
+2024-06-08 01:30:50.612 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 01:30:50.619 [Thread-31] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:30:50.704 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 01:30:50.705 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 01:30:50.909 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 01:30:50.911 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:30:50.912 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 01:30:50.913 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 01:30:50.969 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 01:30:50.975 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:30:50.980 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 01:30:50.982 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.309 seconds (process running for 1820.354)
+2024-06-08 01:30:50.984 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 01:30:55.331 [http-nio-8080-exec-3] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [GET PROXY]www.google.com
+2024-06-08 01:30:55.715 [http-nio-8080-exec-3] [ERROR] [com.nick.reverseproxy.controller.ProxyController]: Could not extract response: no suitable HttpMessageConverter found for response type [class java.lang.Object] and content type [text/html;charset=ISO-8859-1]
+2024-06-08 01:30:55.989 [http-nio-8080-exec-5] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [GET PROXY]www.google.com
+2024-06-08 01:30:56.262 [http-nio-8080-exec-5] [ERROR] [com.nick.reverseproxy.controller.ProxyController]: Could not extract response: no suitable HttpMessageConverter found for response type [class java.lang.Object] and content type [text/html;charset=ISO-8859-1]
+2024-06-08 01:31:13.019 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 01:31:13.021 [Thread-35] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:31:13.108 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 01:31:13.111 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 01:31:13.289 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 01:31:13.290 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:31:13.291 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 01:31:13.292 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 01:31:13.356 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 01:31:13.360 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:31:13.363 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 01:31:13.366 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.294 seconds (process running for 1842.737)
+2024-06-08 01:31:13.367 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 01:35:49.018 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 01:35:49.021 [Thread-39] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:35:49.114 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 01:35:49.115 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 01:35:49.306 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 01:35:49.307 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:35:49.307 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 01:35:49.308 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 01:35:49.366 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 01:35:49.370 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:35:49.373 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 01:35:49.376 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.293 seconds (process running for 2118.748)
+2024-06-08 01:35:49.378 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 01:35:52.617 [http-nio-8080-exec-3] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [GET PROXY]www.google.com
+2024-06-08 01:35:52.948 [http-nio-8080-exec-3] [ERROR] [com.nick.reverseproxy.controller.ProxyController]: Could not extract response: no suitable HttpMessageConverter found for response type [class java.lang.Object] and content type [text/html;charset=ISO-8859-1]
+2024-06-08 01:38:49.670 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 01:38:49.686 [Thread-43] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:38:49.817 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 01:38:49.818 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 01:38:50.023 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 01:38:50.024 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:38:50.025 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 01:38:50.025 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 01:38:50.091 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 01:38:50.097 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:38:50.101 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 01:38:50.104 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.314 seconds (process running for 2299.475)
+2024-06-08 01:38:50.105 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 01:38:58.716 [http-nio-8080-exec-5] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [GET PROXY]www.google.com
+2024-06-08 01:38:58.960 [http-nio-8080-exec-5] [ERROR] [com.nick.reverseproxy.controller.ProxyController]: Could not extract response: no suitable HttpMessageConverter found for response type [class java.lang.Object] and content type [text/html;charset=ISO-8859-1]
+2024-06-08 01:39:54.443 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 01:39:54.447 [Thread-47] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:39:54.531 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 01:39:54.533 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 01:39:54.700 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 01:39:54.701 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:39:54.702 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 01:39:54.703 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 01:39:54.752 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 01:39:54.757 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:39:54.761 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 01:39:54.764 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.265 seconds (process running for 2364.136)
+2024-06-08 01:39:54.765 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 01:40:03.175 [http-nio-8080-exec-7] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [GET PROXY]www.google.com
+2024-06-08 01:40:03.555 [http-nio-8080-exec-1] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [POST]client_204
+2024-06-08 01:40:04.836 [http-nio-8080-exec-5] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [POST]search
+2024-06-08 01:40:05.370 [http-nio-8080-exec-7] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [POST]client_204
+2024-06-08 01:40:06.395 [http-nio-8080-exec-10] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [POST]search
+2024-06-08 01:40:06.879 [http-nio-8080-exec-3] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [POST]client_204
+2024-06-08 01:40:09.674 [http-nio-8080-exec-7] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [POST]search
+2024-06-08 01:40:10.084 [http-nio-8080-exec-2] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [POST]client_204
+2024-06-08 01:46:08.589 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 01:46:08.596 [Thread-51] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:46:08.761 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 01:46:08.762 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 01:46:08.941 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 01:46:08.942 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:46:08.943 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 01:46:08.943 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 01:46:09.014 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 01:46:09.022 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 01:46:09.027 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 01:46:09.031 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.297 seconds (process running for 2738.402)
+2024-06-08 01:46:09.033 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 09:18:22.318 [http-nio-8080-exec-1] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [GET PROXY]www.google.com
+2024-06-08 09:18:23.007 [http-nio-8080-exec-5] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [POST]client_204
+2024-06-08 09:18:24.262 [http-nio-8080-exec-4] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [POST]search
+2024-06-08 09:18:24.929 [http-nio-8080-exec-5] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [POST]client_204
+2024-06-08 09:21:15.157 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 09:21:15.196 [Thread-55] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 09:21:15.510 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 09:21:15.512 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 09:21:15.891 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 09:21:15.892 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 09:21:15.893 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 09:21:15.893 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 09:21:16.010 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 09:21:16.023 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 09:21:16.029 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 09:21:16.036 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.589 seconds (process running for 30045.408)
+2024-06-08 09:21:16.039 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 09:21:23.584 [http-nio-8080-exec-3] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [GET PROXY]www.google.com
+2024-06-08 10:29:52.389 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 10:29:52.476 [Thread-59] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 10:29:52.955 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 10:29:52.958 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 10:29:53.321 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 10:29:53.325 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 10:29:53.326 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 10:29:53.327 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 10:29:53.450 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 10:29:53.457 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 10:29:53.465 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 10:29:53.471 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.717 seconds (process running for 34162.843)
+2024-06-08 10:29:53.473 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 11:37:30.105 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 11:37:30.264 [Thread-63] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 11:37:30.638 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 11:37:30.639 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 11:37:30.958 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 11:37:30.960 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 11:37:30.961 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 11:37:30.961 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 11:37:31.091 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 11:37:31.098 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 11:37:31.102 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 11:37:31.110 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.561 seconds (process running for 38220.482)
+2024-06-08 11:37:31.112 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 11:41:17.241 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 11:41:17.288 [Thread-67] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 11:41:17.521 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 11:41:17.522 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 11:41:17.697 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 11:41:17.698 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 11:41:17.699 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 11:41:17.699 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 11:41:17.771 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 11:41:17.779 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 11:41:17.783 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 11:41:17.790 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.328 seconds (process running for 38447.162)
+2024-06-08 11:41:17.794 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 11:41:21.887 [http-nio-8080-exec-4] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [GET PROXY]www.google.com
+2024-06-08 11:41:22.286 [http-nio-8080-exec-3] [ERROR] [o.s.b.a.w.r.error.AbstractErrorWebExceptionHandler]: [7181d2ea]  500 Server Error for HTTP GET "/client_204?&atyp=i&biw=1385&bih=787&ei=0sRjZpHtJNzf1e8PuaGy4AM&opi=89978449"
+java.lang.NullPointerException: Cannot invoke "Object.toString()" because "requestAttributes" is null
+	at com.nick.reverseproxy.controller.ProxyController.proxyPost(ProxyController.java:39)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	*__checkpoint ? HTTP GET "/client_204?&atyp=i&biw=1385&bih=787&ei=0sRjZpHtJNzf1e8PuaGy4AM&opi=89978449" [ExceptionHandlingWebHandler]
+Original Stack Trace:
+		at com.nick.reverseproxy.controller.ProxyController.proxyPost(ProxyController.java:39)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.springframework.web.reactive.result.method.InvocableHandlerMethod.lambda$invoke$0(InvocableHandlerMethod.java:198)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onNext(MonoFlatMap.java:132)
+		at reactor.core.publisher.MonoZip$ZipCoordinator.signal(MonoZip.java:297)
+		at reactor.core.publisher.MonoZip$ZipInner.onNext(MonoZip.java:478)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onNext(MonoPeekTerminal.java:180)
+		at reactor.core.publisher.FluxDefaultIfEmpty$DefaultIfEmptySubscriber.onNext(FluxDefaultIfEmpty.java:122)
+		at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onNext(FluxSwitchIfEmpty.java:74)
+		at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2571)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.set(Operators.java:2367)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onSubscribe(Operators.java:2241)
+		at reactor.core.publisher.FluxFlatMap.trySubscribeScalarMap(FluxFlatMap.java:193)
+		at reactor.core.publisher.MonoFlatMap.subscribeOrReturn(MonoFlatMap.java:53)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:63)
+		at reactor.core.publisher.MonoZip$ZipCoordinator.request(MonoZip.java:220)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.request(MonoFlatMap.java:194)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.onSubscribe(MonoIgnoreThen.java:135)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onSubscribe(MonoFlatMap.java:117)
+		at reactor.core.publisher.MonoZip.subscribe(MonoZip.java:129)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:76)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:53)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.subscribeNext(MonoIgnoreThen.java:241)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.onComplete(MonoIgnoreThen.java:204)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onComplete(MonoFlatMap.java:189)
+		at reactor.core.publisher.Operators.complete(Operators.java:137)
+		at reactor.core.publisher.MonoZip.subscribe(MonoZip.java:121)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4568)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.subscribeNext(MonoIgnoreThen.java:265)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:51)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:76)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onNext(MonoFlatMap.java:165)
+		at reactor.core.publisher.FluxOnErrorResume$ResumeSubscriber.onNext(FluxOnErrorResume.java:79)
+		at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onNext(FluxSwitchIfEmpty.java:74)
+		at reactor.core.publisher.MonoNext$NextSubscriber.onNext(MonoNext.java:82)
+		at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.innerNext(FluxConcatMapNoPrefetch.java:259)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapInner.onNext(FluxConcatMap.java:865)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:129)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onNext(MonoPeekTerminal.java:180)
+		at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2571)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.request(MonoPeekTerminal.java:139)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.request(FluxMapFuseable.java:171)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.request(Operators.java:2331)
+		at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.request(FluxConcatMapNoPrefetch.java:339)
+		at reactor.core.publisher.MonoNext$NextSubscriber.request(MonoNext.java:108)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.set(Operators.java:2367)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onSubscribe(Operators.java:2241)
+		at reactor.core.publisher.MonoNext$NextSubscriber.onSubscribe(MonoNext.java:70)
+		at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.onSubscribe(FluxConcatMapNoPrefetch.java:164)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:201)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:83)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:76)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:53)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4568)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.subscribeNext(MonoIgnoreThen.java:265)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:51)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4568)
+		at org.springframework.http.server.reactive.ServletHttpHandlerAdapter.service(ServletHttpHandlerAdapter.java:199)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:833)
+2024-06-08 11:41:24.612 [http-nio-8080-exec-2] [ERROR] [o.s.b.a.w.r.error.AbstractErrorWebExceptionHandler]: [3ca02f1b]  500 Server Error for HTTP GET "/search?ie=ISO-8859-1&hl=ja&source=hp&biw=&bih=&q=123&btnG=Google+%E6%A4%9C%E7%B4%A2&iflsig=AL9hbdgAAAAAZmPS4rXoWxZ1kh0prN0vEX1jaoC8v2ZI&gbv=2"
+java.lang.NullPointerException: Cannot invoke "Object.toString()" because "requestAttributes" is null
+	at com.nick.reverseproxy.controller.ProxyController.proxyPost(ProxyController.java:39)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	*__checkpoint ? HTTP GET "/search?ie=ISO-8859-1&hl=ja&source=hp&biw=&bih=&q=123&btnG=Google+%E6%A4%9C%E7%B4%A2&iflsig=AL9hbdgAAAAAZmPS4rXoWxZ1kh0prN0vEX1jaoC8v2ZI&gbv=2" [ExceptionHandlingWebHandler]
+Original Stack Trace:
+		at com.nick.reverseproxy.controller.ProxyController.proxyPost(ProxyController.java:39)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.springframework.web.reactive.result.method.InvocableHandlerMethod.lambda$invoke$0(InvocableHandlerMethod.java:198)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onNext(MonoFlatMap.java:132)
+		at reactor.core.publisher.MonoZip$ZipCoordinator.signal(MonoZip.java:297)
+		at reactor.core.publisher.MonoZip$ZipInner.onNext(MonoZip.java:478)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onNext(MonoPeekTerminal.java:180)
+		at reactor.core.publisher.FluxDefaultIfEmpty$DefaultIfEmptySubscriber.onNext(FluxDefaultIfEmpty.java:122)
+		at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onNext(FluxSwitchIfEmpty.java:74)
+		at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2571)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.set(Operators.java:2367)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onSubscribe(Operators.java:2241)
+		at reactor.core.publisher.FluxFlatMap.trySubscribeScalarMap(FluxFlatMap.java:193)
+		at reactor.core.publisher.MonoFlatMap.subscribeOrReturn(MonoFlatMap.java:53)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:63)
+		at reactor.core.publisher.MonoZip$ZipCoordinator.request(MonoZip.java:220)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.request(MonoFlatMap.java:194)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.onSubscribe(MonoIgnoreThen.java:135)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onSubscribe(MonoFlatMap.java:117)
+		at reactor.core.publisher.MonoZip.subscribe(MonoZip.java:129)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:76)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:53)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.subscribeNext(MonoIgnoreThen.java:241)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.onComplete(MonoIgnoreThen.java:204)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onComplete(MonoFlatMap.java:189)
+		at reactor.core.publisher.Operators.complete(Operators.java:137)
+		at reactor.core.publisher.MonoZip.subscribe(MonoZip.java:121)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4568)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.subscribeNext(MonoIgnoreThen.java:265)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:51)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:76)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onNext(MonoFlatMap.java:165)
+		at reactor.core.publisher.FluxOnErrorResume$ResumeSubscriber.onNext(FluxOnErrorResume.java:79)
+		at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onNext(FluxSwitchIfEmpty.java:74)
+		at reactor.core.publisher.MonoNext$NextSubscriber.onNext(MonoNext.java:82)
+		at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.innerNext(FluxConcatMapNoPrefetch.java:259)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapInner.onNext(FluxConcatMap.java:865)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:129)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onNext(MonoPeekTerminal.java:180)
+		at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2571)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.request(MonoPeekTerminal.java:139)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.request(FluxMapFuseable.java:171)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.request(Operators.java:2331)
+		at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.request(FluxConcatMapNoPrefetch.java:339)
+		at reactor.core.publisher.MonoNext$NextSubscriber.request(MonoNext.java:108)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.set(Operators.java:2367)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onSubscribe(Operators.java:2241)
+		at reactor.core.publisher.MonoNext$NextSubscriber.onSubscribe(MonoNext.java:70)
+		at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.onSubscribe(FluxConcatMapNoPrefetch.java:164)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:201)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:83)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:76)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:53)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4568)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.subscribeNext(MonoIgnoreThen.java:265)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:51)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4568)
+		at org.springframework.http.server.reactive.ServletHttpHandlerAdapter.service(ServletHttpHandlerAdapter.java:199)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:833)
+2024-06-08 12:07:15.123 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 12:07:15.151 [Thread-71] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:07:15.347 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 12:07:15.348 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 12:07:15.614 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 12:07:15.615 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:07:15.615 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 12:07:15.616 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 12:07:15.725 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 12:07:15.733 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:07:15.738 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 12:07:15.742 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.464 seconds (process running for 40005.114)
+2024-06-08 12:07:15.745 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 12:08:10.389 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 12:08:10.393 [Thread-75] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:08:10.517 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 12:08:10.518 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 12:08:10.667 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 12:08:10.668 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:08:10.668 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 12:08:10.669 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 12:08:10.723 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 12:08:10.728 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:08:10.732 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 12:08:10.734 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.246 seconds (process running for 40060.106)
+2024-06-08 12:08:10.736 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 12:11:20.224 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 2 class path changes (0 additions, 0 deletions, 2 modifications)
+2024-06-08 12:11:20.239 [Thread-79] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:11:20.343 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 12:11:20.344 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 12:11:20.497 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 12:11:20.499 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:11:20.500 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 12:11:20.500 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 12:11:20.543 [restartedMain] [WARN ] [o.s.b.w.r.c.AnnotationConfigReactiveWebServerApplicationContext]: Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'webHandler' defined in class path resource [org/springframework/web/reactive/config/DelegatingWebFluxConfiguration.class]: Error creating bean with name 'routerFunctionMapping' defined in class path resource [org/springframework/web/reactive/config/DelegatingWebFluxConfiguration.class]: Error creating bean with name 'route' defined in class path resource [com/nick/reverseproxy/router/IndexRouter.class]: Failed to instantiate [org.springframework.web.reactive.function.server.RouterFunction]: Factory method 'route' threw exception with message: Unresolved compilation problems: 
+	The method route(RequestPredicate, HandlerFunction<T>) in the type RouterFunctions is not applicable for the arguments (RequestPredicate, indexHandler::index)
+	The type IndexHandler does not define index(ServerRequest) that is applicable here
+
+2024-06-08 12:11:20.555 [restartedMain] [INFO ] [o.s.b.a.logging.ConditionEvaluationReportLogger]: 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-06-08 12:11:20.632 [restartedMain] [ERROR] [org.springframework.boot.SpringApplication]: Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'webHandler' defined in class path resource [org/springframework/web/reactive/config/DelegatingWebFluxConfiguration.class]: Error creating bean with name 'routerFunctionMapping' defined in class path resource [org/springframework/web/reactive/config/DelegatingWebFluxConfiguration.class]: Error creating bean with name 'route' defined in class path resource [com/nick/reverseproxy/router/IndexRouter.class]: Failed to instantiate [org.springframework.web.reactive.function.server.RouterFunction]: Factory method 'route' threw exception with message: Unresolved compilation problems: 
+	The method route(RequestPredicate, HandlerFunction<T>) in the type RouterFunctions is not applicable for the arguments (RequestPredicate, indexHandler::index)
+	The type IndexHandler does not define index(ServerRequest) that is applicable here
+
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:607)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:962)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624)
+	at org.springframework.boot.web.reactive.context.ReactiveWebServerApplicationContext.refresh(ReactiveWebServerApplicationContext.java:66)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352)
+	at com.nick.reverseproxy.ReverseproxyApplication.main(ReverseproxyApplication.java:10)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'routerFunctionMapping' defined in class path resource [org/springframework/web/reactive/config/DelegatingWebFluxConfiguration.class]: Error creating bean with name 'route' defined in class path resource [com/nick/reverseproxy/router/IndexRouter.class]: Failed to instantiate [org.springframework.web.reactive.function.server.RouterFunction]: Factory method 'route' threw exception with message: Unresolved compilation problems: 
+	The method route(RequestPredicate, HandlerFunction<T>) in the type RouterFunctions is not applicable for the arguments (RequestPredicate, indexHandler::index)
+	The type IndexHandler does not define index(ServerRequest) that is applicable here
+
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1788)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeansOfType(DefaultListableBeanFactory.java:665)
+	at org.springframework.context.support.AbstractApplicationContext.getBeansOfType(AbstractApplicationContext.java:1388)
+	at org.springframework.beans.factory.BeanFactoryUtils.beansOfTypeIncludingAncestors(BeanFactoryUtils.java:368)
+	at org.springframework.web.reactive.DispatcherHandler.initStrategies(DispatcherHandler.java:120)
+	at org.springframework.web.reactive.DispatcherHandler.setApplicationContext(DispatcherHandler.java:115)
+	at org.springframework.context.support.ApplicationContextAwareProcessor.invokeAwareInterfaces(ApplicationContextAwareProcessor.java:110)
+	at org.springframework.context.support.ApplicationContextAwareProcessor.postProcessBeforeInitialization(ApplicationContextAwareProcessor.java:85)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsBeforeInitialization(AbstractAutowireCapableBeanFactory.java:422)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1780)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	... 20 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'route' defined in class path resource [com/nick/reverseproxy/router/IndexRouter.class]: Failed to instantiate [org.springframework.web.reactive.function.server.RouterFunction]: Factory method 'route' threw exception with message: Unresolved compilation problems: 
+	The method route(RequestPredicate, HandlerFunction<T>) in the type RouterFunctions is not applicable for the arguments (RequestPredicate, indexHandler::index)
+	The type IndexHandler does not define index(ServerRequest) that is applicable here
+
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:648)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:636)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1337)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1167)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:562)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory$1.orderedStream(DefaultListableBeanFactory.java:473)
+	at org.springframework.web.reactive.function.server.support.RouterFunctionMapping.routerFunctions(RouterFunctionMapping.java:125)
+	at org.springframework.web.reactive.function.server.support.RouterFunctionMapping.initRouterFunctions(RouterFunctionMapping.java:117)
+	at org.springframework.web.reactive.function.server.support.RouterFunctionMapping.afterPropertiesSet(RouterFunctionMapping.java:105)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1835)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1784)
+	... 36 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.web.reactive.function.server.RouterFunction]: Factory method 'route' threw exception with message: Unresolved compilation problems: 
+	The method route(RequestPredicate, HandlerFunction<T>) in the type RouterFunctions is not applicable for the arguments (RequestPredicate, indexHandler::index)
+	The type IndexHandler does not define index(ServerRequest) that is applicable here
+
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:177)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:644)
+	... 51 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	The method route(RequestPredicate, HandlerFunction<T>) in the type RouterFunctions is not applicable for the arguments (RequestPredicate, indexHandler::index)
+	The type IndexHandler does not define index(ServerRequest) that is applicable here
+
+	at com.nick.reverseproxy.router.IndexRouter.route(IndexRouter.java:20)
+	at com.nick.reverseproxy.router.IndexRouter$$SpringCGLIB$$0.CGLIB$route$0(<generated>)
+	at com.nick.reverseproxy.router.IndexRouter$$SpringCGLIB$$FastClass$$1.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:258)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:339)
+	at com.nick.reverseproxy.router.IndexRouter$$SpringCGLIB$$0.route(<generated>)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:140)
+	... 52 common frames omitted
+2024-06-08 12:12:17.304 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 12:12:17.305 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 12:12:17.492 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 12:12:17.495 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:12:17.496 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 12:12:17.497 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 12:12:17.592 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 12:12:17.600 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:12:17.604 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 12:12:17.608 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.351 seconds (process running for 40306.979)
+2024-06-08 12:12:17.610 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 12:21:29.622 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 12:21:29.908 [Thread-83] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:21:30.532 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 12:21:30.534 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 12:21:30.780 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 12:21:30.781 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:21:30.783 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 12:21:30.785 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 12:21:30.953 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 12:21:30.966 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:21:30.985 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 12:21:30.991 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.594 seconds (process running for 40860.363)
+2024-06-08 12:21:30.995 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 12:21:41.611 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 12:21:41.619 [Thread-90] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:21:41.718 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 12:21:41.720 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 12:21:41.849 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 12:21:41.850 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:21:41.850 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 12:21:41.851 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 12:21:41.880 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 12:21:41.884 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:21:41.888 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 12:21:41.890 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.198 seconds (process running for 40871.262)
+2024-06-08 12:21:41.892 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 12:22:19.097 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 12:22:19.109 [Thread-94] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:22:19.209 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 12:22:19.210 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 12:22:19.366 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 12:22:19.370 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:22:19.371 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 12:22:19.372 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 12:22:19.418 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 12:22:19.423 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:22:19.425 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 12:22:19.428 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.245 seconds (process running for 40908.8)
+2024-06-08 12:22:19.429 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 12:22:25.309 [http-nio-8080-exec-1] [INFO ] [com.nick.reverseproxy.handler.IndexHandler]: [REQUEST]/
+2024-06-08 12:22:30.619 [http-nio-8080-exec-7] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [GET PROXY]www.google.com
+2024-06-08 12:22:31.439 [http-nio-8080-exec-9] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [POST]client_204
+2024-06-08 12:23:21.086 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 12:23:21.090 [Thread-98] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:23:21.211 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 12:23:21.212 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 12:23:21.338 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 12:23:21.338 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:23:21.339 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 12:23:21.339 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 12:23:21.385 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 12:23:21.392 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:23:21.396 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 12:23:21.398 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.216 seconds (process running for 40970.769)
+2024-06-08 12:23:21.399 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 12:23:36.081 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 12:23:36.083 [Thread-102] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:23:36.187 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 12:23:36.188 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 12:23:36.300 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 12:23:36.301 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:23:36.302 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 12:23:36.303 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 12:23:36.342 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 12:23:36.349 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:23:36.353 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 12:23:36.356 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.196 seconds (process running for 40985.728)
+2024-06-08 12:23:36.358 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 12:24:04.237 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 12:24:04.242 [Thread-106] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:24:04.355 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 12:24:04.356 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 12:24:04.471 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 12:24:04.472 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:24:04.472 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 12:24:04.472 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 12:24:04.517 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 12:24:04.527 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:24:04.530 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 12:24:04.532 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.202 seconds (process running for 41013.904)
+2024-06-08 12:24:04.533 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 12:24:06.901 [http-nio-8080-exec-2] [INFO ] [com.nick.reverseproxy.handler.IndexHandler]: [REQUEST]/
+2024-06-08 12:24:08.083 [http-nio-8080-exec-9] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [GET PROXY]www.google.com
+2024-06-08 12:24:32.550 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 12:24:32.556 [Thread-110] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:24:32.685 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 12:24:32.686 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 12:24:32.815 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 12:24:32.816 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:24:32.817 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 12:24:32.817 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 12:24:32.865 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 12:24:32.872 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:24:32.878 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 12:24:32.880 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.219 seconds (process running for 41042.252)
+2024-06-08 12:24:32.882 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 12:24:42.459 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 12:24:42.463 [Thread-114] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:24:42.594 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 12:24:42.594 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 12:24:42.731 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 12:24:42.732 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:24:42.732 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 12:24:42.733 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 12:24:42.789 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 12:24:42.794 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:24:42.797 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 12:24:42.800 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.243 seconds (process running for 41052.172)
+2024-06-08 12:24:42.802 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 12:24:48.277 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 12:24:48.281 [Thread-118] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:24:48.394 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 12:24:48.395 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 12:24:48.506 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 12:24:48.506 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:24:48.507 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 12:24:48.507 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 12:24:48.579 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 12:24:48.583 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:24:48.587 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 12:24:48.590 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.217 seconds (process running for 41057.961)
+2024-06-08 12:24:48.591 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 12:28:01.976 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 12:28:01.980 [Thread-122] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:28:02.100 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 12:28:02.101 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 12:28:02.209 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 12:28:02.210 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:28:02.210 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 12:28:02.211 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 12:28:02.246 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 12:28:02.251 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 12:28:02.255 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 12:28:02.257 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.181 seconds (process running for 41251.629)
+2024-06-08 12:28:02.258 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 12:28:08.754 [http-nio-8080-exec-5] [ERROR] [o.s.b.a.w.r.error.AbstractErrorWebExceptionHandler]: [42c0cd9b]  500 Server Error for HTTP GET "/nickproxy/www.google.com"
+java.lang.IllegalStateException: No primary or single unique constructor found for interface org.springframework.web.reactive.function.server.ServerRequest
+	at org.springframework.beans.BeanUtils.getResolvableConstructor(BeanUtils.java:265)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	*__checkpoint ? HTTP GET "/nickproxy/www.google.com" [ExceptionHandlingWebHandler]
+Original Stack Trace:
+		at org.springframework.beans.BeanUtils.getResolvableConstructor(BeanUtils.java:265)
+		at org.springframework.validation.DataBinder.createObject(DataBinder.java:924)
+		at org.springframework.validation.DataBinder.construct(DataBinder.java:903)
+		at org.springframework.web.bind.support.WebExchangeDataBinder.lambda$construct$0(WebExchangeDataBinder.java:88)
+		at reactor.core.publisher.FluxPeek$PeekSubscriber.onNext(FluxPeek.java:185)
+		at reactor.core.publisher.FluxPeek$PeekSubscriber.onNext(FluxPeek.java:200)
+		at reactor.core.publisher.FluxMap$MapSubscriber.onNext(FluxMap.java:122)
+		at reactor.core.publisher.MonoZip$ZipCoordinator.signal(MonoZip.java:297)
+		at reactor.core.publisher.MonoZip$ZipInner.onNext(MonoZip.java:478)
+		at reactor.core.publisher.Operators$MonoSubscriber.complete(Operators.java:1865)
+		at reactor.core.publisher.MonoCacheTime$CoordinatorSubscriber.signalCached(MonoCacheTime.java:337)
+		at reactor.core.publisher.MonoCacheTime$CoordinatorSubscriber.onNext(MonoCacheTime.java:354)
+		at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2571)
+		at reactor.core.publisher.MonoCacheTime$CoordinatorSubscriber.onSubscribe(MonoCacheTime.java:293)
+		at reactor.core.publisher.MonoJust.subscribe(MonoJust.java:55)
+		at reactor.core.publisher.MonoCacheTime.subscribeOrReturn(MonoCacheTime.java:143)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:63)
+		at reactor.core.publisher.MonoZip$ZipCoordinator.request(MonoZip.java:220)
+		at reactor.core.publisher.FluxMap$MapSubscriber.request(FluxMap.java:164)
+		at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:138)
+		at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:138)
+		at reactor.core.publisher.MonoIgnoreElements$IgnoreElementsSubscriber.onSubscribe(MonoIgnoreElements.java:72)
+		at reactor.core.publisher.FluxPeek$PeekSubscriber.onSubscribe(FluxPeek.java:171)
+		at reactor.core.publisher.FluxPeek$PeekSubscriber.onSubscribe(FluxPeek.java:171)
+		at reactor.core.publisher.FluxMap$MapSubscriber.onSubscribe(FluxMap.java:92)
+		at reactor.core.publisher.MonoZip.subscribe(MonoZip.java:129)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4568)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.subscribeNext(MonoIgnoreThen.java:265)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:51)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:76)
+		at reactor.core.publisher.MonoZip$ZipCoordinator.request(MonoZip.java:220)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.request(MonoFlatMap.java:194)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.onSubscribe(MonoIgnoreThen.java:135)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onSubscribe(MonoFlatMap.java:117)
+		at reactor.core.publisher.MonoZip.subscribe(MonoZip.java:129)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:76)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:53)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.subscribeNext(MonoIgnoreThen.java:241)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.onComplete(MonoIgnoreThen.java:204)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onComplete(MonoFlatMap.java:189)
+		at reactor.core.publisher.Operators.complete(Operators.java:137)
+		at reactor.core.publisher.MonoZip.subscribe(MonoZip.java:121)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4568)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.subscribeNext(MonoIgnoreThen.java:265)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:51)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:76)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onNext(MonoFlatMap.java:165)
+		at reactor.core.publisher.FluxOnErrorResume$ResumeSubscriber.onNext(FluxOnErrorResume.java:79)
+		at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onNext(FluxSwitchIfEmpty.java:74)
+		at reactor.core.publisher.MonoNext$NextSubscriber.onNext(MonoNext.java:82)
+		at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.innerNext(FluxConcatMapNoPrefetch.java:259)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapInner.onNext(FluxConcatMap.java:865)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:129)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onNext(MonoPeekTerminal.java:180)
+		at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2571)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.request(MonoPeekTerminal.java:139)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.request(FluxMapFuseable.java:171)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.request(Operators.java:2331)
+		at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.request(FluxConcatMapNoPrefetch.java:339)
+		at reactor.core.publisher.MonoNext$NextSubscriber.request(MonoNext.java:108)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.set(Operators.java:2367)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onSubscribe(Operators.java:2241)
+		at reactor.core.publisher.MonoNext$NextSubscriber.onSubscribe(MonoNext.java:70)
+		at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.onSubscribe(FluxConcatMapNoPrefetch.java:164)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:201)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:83)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:76)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:53)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4568)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.subscribeNext(MonoIgnoreThen.java:265)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:51)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4568)
+		at org.springframework.http.server.reactive.ServletHttpHandlerAdapter.service(ServletHttpHandlerAdapter.java:199)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:833)
+2024-06-08 13:03:20.417 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 13:03:20.519 [Thread-126] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 13:03:20.765 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 13:03:20.766 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 13:03:21.008 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 13:03:21.009 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 13:03:21.010 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 13:03:21.010 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 13:03:21.107 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 13:03:21.118 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 13:03:21.123 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 13:03:21.128 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.417 seconds (process running for 43370.499)
+2024-06-08 13:03:21.130 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 13:03:26.263 [http-nio-8080-exec-5] [ERROR] [o.s.b.a.w.r.error.AbstractErrorWebExceptionHandler]: [4b092454]  500 Server Error for HTTP GET "/nickproxy/www.google.com"
+java.lang.IllegalStateException: No primary or single unique constructor found for interface org.springframework.web.reactive.function.server.ServerRequest
+	at org.springframework.beans.BeanUtils.getResolvableConstructor(BeanUtils.java:265)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	*__checkpoint ? HTTP GET "/nickproxy/www.google.com" [ExceptionHandlingWebHandler]
+Original Stack Trace:
+		at org.springframework.beans.BeanUtils.getResolvableConstructor(BeanUtils.java:265)
+		at org.springframework.validation.DataBinder.createObject(DataBinder.java:924)
+		at org.springframework.validation.DataBinder.construct(DataBinder.java:903)
+		at org.springframework.web.bind.support.WebExchangeDataBinder.lambda$construct$0(WebExchangeDataBinder.java:88)
+		at reactor.core.publisher.FluxPeek$PeekSubscriber.onNext(FluxPeek.java:185)
+		at reactor.core.publisher.FluxPeek$PeekSubscriber.onNext(FluxPeek.java:200)
+		at reactor.core.publisher.FluxMap$MapSubscriber.onNext(FluxMap.java:122)
+		at reactor.core.publisher.MonoZip$ZipCoordinator.signal(MonoZip.java:297)
+		at reactor.core.publisher.MonoZip$ZipInner.onNext(MonoZip.java:478)
+		at reactor.core.publisher.Operators$MonoSubscriber.complete(Operators.java:1865)
+		at reactor.core.publisher.MonoCacheTime.subscribeOrReturn(MonoCacheTime.java:151)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:63)
+		at reactor.core.publisher.MonoZip$ZipCoordinator.request(MonoZip.java:220)
+		at reactor.core.publisher.FluxMap$MapSubscriber.request(FluxMap.java:164)
+		at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:138)
+		at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:138)
+		at reactor.core.publisher.MonoIgnoreElements$IgnoreElementsSubscriber.onSubscribe(MonoIgnoreElements.java:72)
+		at reactor.core.publisher.FluxPeek$PeekSubscriber.onSubscribe(FluxPeek.java:171)
+		at reactor.core.publisher.FluxPeek$PeekSubscriber.onSubscribe(FluxPeek.java:171)
+		at reactor.core.publisher.FluxMap$MapSubscriber.onSubscribe(FluxMap.java:92)
+		at reactor.core.publisher.MonoZip.subscribe(MonoZip.java:129)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4568)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.subscribeNext(MonoIgnoreThen.java:265)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:51)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:76)
+		at reactor.core.publisher.MonoZip$ZipCoordinator.request(MonoZip.java:220)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.request(MonoFlatMap.java:194)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.onSubscribe(MonoIgnoreThen.java:135)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onSubscribe(MonoFlatMap.java:117)
+		at reactor.core.publisher.MonoZip.subscribe(MonoZip.java:129)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:76)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:53)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.subscribeNext(MonoIgnoreThen.java:241)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.onComplete(MonoIgnoreThen.java:204)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onComplete(MonoFlatMap.java:189)
+		at reactor.core.publisher.Operators.complete(Operators.java:137)
+		at reactor.core.publisher.MonoZip.subscribe(MonoZip.java:121)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4568)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.subscribeNext(MonoIgnoreThen.java:265)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:51)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:76)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onNext(MonoFlatMap.java:165)
+		at reactor.core.publisher.FluxOnErrorResume$ResumeSubscriber.onNext(FluxOnErrorResume.java:79)
+		at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onNext(FluxSwitchIfEmpty.java:74)
+		at reactor.core.publisher.MonoNext$NextSubscriber.onNext(MonoNext.java:82)
+		at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.innerNext(FluxConcatMapNoPrefetch.java:259)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapInner.onNext(FluxConcatMap.java:865)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:129)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onNext(MonoPeekTerminal.java:180)
+		at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2571)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.request(MonoPeekTerminal.java:139)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.request(FluxMapFuseable.java:171)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.request(Operators.java:2331)
+		at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.request(FluxConcatMapNoPrefetch.java:339)
+		at reactor.core.publisher.MonoNext$NextSubscriber.request(MonoNext.java:108)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.set(Operators.java:2367)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onSubscribe(Operators.java:2241)
+		at reactor.core.publisher.MonoNext$NextSubscriber.onSubscribe(MonoNext.java:70)
+		at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.onSubscribe(FluxConcatMapNoPrefetch.java:164)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:201)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:83)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:76)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:53)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4568)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.subscribeNext(MonoIgnoreThen.java:265)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:51)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4568)
+		at org.springframework.http.server.reactive.ServletHttpHandlerAdapter.service(ServletHttpHandlerAdapter.java:199)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:833)
+2024-06-08 13:04:01.287 [File Watcher] [INFO ] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]: Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-08 13:04:01.291 [Thread-130] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Stopping ProtocolHandler ["http-nio-8080"]
+2024-06-08 13:04:01.408 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Starting ReverseproxyApplication using Java 17.0.4.1 with PID 1484 (C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy\target\classes started by hunen in C:\Users\hunen\OneDrive\文档\Work\work_space\reverseproxy)
+2024-06-08 13:04:01.409 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: No active profile set, falling back to 1 default profile: "default"
+2024-06-08 13:04:01.542 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port 8080 (http)
+2024-06-08 13:04:01.543 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-08 13:04:01.543 [restartedMain] [INFO ] [org.apache.catalina.core.StandardService]: Starting service [Tomcat]
+2024-06-08 13:04:01.543 [restartedMain] [INFO ] [org.apache.catalina.core.StandardEngine]: Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-08 13:04:01.599 [restartedMain] [INFO ] [o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-06-08 13:04:01.603 [restartedMain] [INFO ] [org.apache.coyote.http11.Http11NioProtocol]: Starting ProtocolHandler ["http-nio-8080"]
+2024-06-08 13:04:01.606 [restartedMain] [INFO ] [o.s.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port 8080 (http)
+2024-06-08 13:04:01.610 [restartedMain] [INFO ] [com.nick.reverseproxy.ReverseproxyApplication]: Started ReverseproxyApplication in 0.236 seconds (process running for 43410.982)
+2024-06-08 13:04:01.614 [restartedMain] [INFO ] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2024-06-08 13:04:04.520 [http-nio-8080-exec-2] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [GET PROXY]www.google.com
+2024-06-08 13:04:04.924 [http-nio-8080-exec-9] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [POST]client_204
+2024-06-08 13:04:06.738 [http-nio-8080-exec-7] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [POST]search
+2024-06-08 13:04:07.550 [http-nio-8080-exec-3] [INFO ] [com.nick.reverseproxy.controller.ProxyController]: [POST]client_204
